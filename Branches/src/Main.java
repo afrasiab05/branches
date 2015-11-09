@@ -10,6 +10,7 @@ public class Main {
 			temp=a+b;
 		System.out.println("Result"+temp);
 		//	System.out.print
+		// afrasiab khan
 	}
 
 }
