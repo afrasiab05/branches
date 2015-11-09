@@ -11,6 +11,9 @@ public class Main {
 		System.out.println("Result"+temp);
 		//	System.out.print
 		// afrasiab khan
+		// afra Khan
+		//afrasiab Swati
+	
 	}
 
 }
