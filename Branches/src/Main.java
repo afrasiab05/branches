@@ -8,8 +8,8 @@ public class Main {
 		int temp;
 		
 			temp=a+b;
-		System.out.println(temp);
-
+		System.out.println("Result"+temp);
+		//	System.out.print
 	}
 
 }
